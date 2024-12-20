@@ -48,7 +48,7 @@ Este projeto utiliza a API do GitHub para listar repositórios públicos de usu�
    ```
 2. Execute o script principal:
    ```bash
-   python main.py
+   python data_repos.py
    ```
 3. Após a execução, os arquivos CSV contendo os dados extraídos estarão disponíveis no diretório `data_processed`.
 
